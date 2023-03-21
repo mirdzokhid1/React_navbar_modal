@@ -10,7 +10,7 @@ const Hero = () => {
         <span className="main_text-info">Chase the new Flavour</span>
         <h1 className="main_text-title">The key to Fine dining</h1>
         <p className="main_text-text">
-         Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam debitis, optio ab repellendus laborum cum eligendi sequi odit nihil.         
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit natus quo consequuntur nostrum pariatur eum enim! Repudiandae fugiat totam molestias!      
         </p>
         <button className="main_text-btn">Explore Menu</button>
       </div>
